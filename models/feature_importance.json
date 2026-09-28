@@ -1,0 +1,11 @@
+{
+  "hour_sin": 0.0795,
+  "hour_cos": 0.1606,
+  "month_sin": 0.0071,
+  "month_cos": 0.0197,
+  "dow_sin": 0.0035,
+  "dow_cos": 0.0026,
+  "is_weekend": 0.0011,
+  "day_of_year": 0.0092,
+  "trend_days": 0.7168
+}

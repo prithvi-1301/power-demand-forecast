@@ -1,0 +1,11 @@
+{
+  "observations": 10920,
+  "dataset_start": "2017-01-01",
+  "dataset_end": "2026-03-31",
+  "years": [
+    2017,
+    2026
+  ],
+  "min_demand_mw": 91333.91,
+  "max_demand_mw": 242948.15
+}

@@ -1,0 +1,7 @@
+{
+  "model": "Random Forest Regressor",
+  "test_observations": 2184,
+  "mae_mw": 58089.69,
+  "rmse_mw": 62189.24,
+  "r2": -3.8056
+}
